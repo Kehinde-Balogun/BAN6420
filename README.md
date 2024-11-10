@@ -1,1 +1,1 @@
-# BAN6420
+# The repository contains projects, assignments, and tasks from my course work.
